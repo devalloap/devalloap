@@ -44,4 +44,11 @@ Sistemas Operacionais
 <br>
 <br>
 
+<img width=380px bottom=50px src="https://github.com/user-attachments/assets/cb282510-75f7-47ff-88e7-9dd7d9865825"/> 
+<br>
+O nome 'devalloap' é um trocadilho com 'developer'. Ele é formado pela <strong>combinação de 'dev' (de 'developer') com 'alloap'</strong>, que é o meu nome 'Paolla' ao contrário." :)
+<br>
+<br>
+<br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF327D&center=true&width=900&lines=Valeu+a+visita!+%F0%9F%91%BB)](https://git.io/typing-svg)
